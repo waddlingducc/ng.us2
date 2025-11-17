@@ -21,6 +21,7 @@ body {
 nav {
     position: fixed;
     top: 0;
+    left: 0;
     backdrop-filter: blur(10px) saturate(200%) brightness(70%);
     color: #fff;
     display: flex;
@@ -30,7 +31,6 @@ nav {
     justify-content: left;
     padding: 0 1%;
     z-index: 10000;
-    margin: auto;
 }
 
 
