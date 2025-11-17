@@ -19,7 +19,8 @@ body {
 }
 
 nav {
-    position: relative;
+    position: fixed;
+    top: 0;
     backdrop-filter: blur(10px) saturate(200%) brightness(70%);
     color: #fff;
     display: flex;
